@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Harina",
+    "description": "Description 2",
+    "price": 29.99,
+    "thumbnails": [
+      "image2_1.jpg",
+      "image2_2.jpg",
+      "image2_3.jpg"
+    ],
+    "code": "P002",
+    "stock": 50,
+    "category": "New Product Category",
+    "status": true
+  }
+]
